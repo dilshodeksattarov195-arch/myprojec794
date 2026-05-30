@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productferify",
+        "uuid": 5641370,
+        "checksum": "ub6bk"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
